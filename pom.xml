@@ -10,9 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
-        <module>TDbank</module>
         <module>UiCatalog</module>
-        <module>Target2</module>
+        <module>ESPNTraining</module>
     </modules>
 
     <dependencyManagement>
